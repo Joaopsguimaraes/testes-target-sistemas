@@ -1,0 +1,22 @@
+{
+  "name": "testes-target-sistemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:teste1": "tsx src/test1.ts",
+    "start:teste2": "tsx src/test2.ts",
+    "start:teste3": "tsx src/test3.ts",
+    "start:teste4": "tsx src/test4.ts",
+    "start:teste5": "tsx src/test5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
