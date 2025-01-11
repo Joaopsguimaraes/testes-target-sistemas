@@ -4,7 +4,11 @@ Olá sou João Guimarães e este é o repositório para o 5 testes propostos. S�
 
 ## OBS: Só um lembrete antes de visualizar os testes a seguir no README, todos os testes estão separados em arquivos para serem executados, como test1, test2, test3 e etc!
 
-Para executar os seguintes testes, voce pode executar o comando:
+Antes de executar os testes instale os pacotes:
+
+`npm install`
+
+Agora para executar os seguintes testes, voce pode executar o comando:
 
 `npm run start:test1` para o primeiro teste
 `npm run start:test2` para o segundo teste
